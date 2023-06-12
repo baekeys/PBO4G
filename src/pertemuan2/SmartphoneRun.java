@@ -35,7 +35,7 @@ public class SmartphoneRun {
         smpg.setNT("Asus ROG 7");
         smpg.setTL(2023);
         smpg.setCG("YA");
-        smpg.setIC("1TB GB");
+        smpg.setIC("1TB");
         smpg.tampilkan();
     }
 }
